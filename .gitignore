@@ -1,0 +1,9 @@
+# Project exclude paths
+/node_modules/
+/.env
+/.idea
+/vendor
+/.phpintel
+.env
+.DS_Store
+/.docker/
