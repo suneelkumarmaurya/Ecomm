@@ -11,7 +11,7 @@
                             phishing, social engineering and password brute force attacks and secures your logins from
                             attackers exploiting weak or stolen credentials.</p>
 
-                        @if (session('error'))
+                        @if (session('error') )
                             <div class="alert alert-danger">
                                 {{ session('error') }}
                             </div>
